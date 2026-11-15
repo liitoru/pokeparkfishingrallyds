@@ -28,3 +28,7 @@ A: When a Pokemon is shiny, you'll see a sparkly pond ripple. Once you fish it u
 Q: Will it be possible to fail a shiny?
 
 A: No, we will take measures to prevent that from happening.
+
+Q: What will the shiny odds be?
+
+A: Same as Gen 3. Good luck.
